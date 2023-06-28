@@ -1,6 +1,6 @@
-# CourseProject
+# WIP: CourseProject
 
-WIP: Course project for Udemy course "Angular - The Complete Guide (2023 Edition)".
+Course project for Udemy course "Angular - The Complete Guide (2023 Edition)".
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
